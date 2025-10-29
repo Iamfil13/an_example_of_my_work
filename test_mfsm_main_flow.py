@@ -18,8 +18,8 @@ def test_mfsm_appeals(browser, metrics, api_client):
             Открыть в браузере страницу
             http://10.2.162.14:8080/smnoldap/index.do
             Ввести
-            логин: AutoTestUser
-            пароль: UserAutoTest
+            логин: ###
+            пароль: ###
             Нажать "Войти"
 
             (логин: Aristov.AV пароль: 123)
